@@ -1,0 +1,12 @@
+Inicio
+
+	Escribe "introduce un numero entre 1 y 10"
+	Lee numero
+
+	Mientras (numero > 10 or numero < 1) hacer
+		Escribe 'Ese  no vale, escribe otro'
+		Lee numero
+ 
+	Escribe "correcto"
+
+Fin
